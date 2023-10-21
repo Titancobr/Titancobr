@@ -6,4 +6,4 @@ currently pursuing the computer science engineering from University of Visvesvar
 
 Skills: C++/ HTML /python/sql
 
-- 🔭 I’m currently working my website.
+- 🔭 I’m currently working on my website.

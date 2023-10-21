@@ -8,5 +8,5 @@ Skills: C++/ HTML /python/sql
 
 - 🔭 I’m currently working on my website.
 
-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'> ](https://www.facebook.com/Ahmed pasha)
+- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Ahmed pasha/)
 _ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/syedahmed3791/)

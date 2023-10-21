@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Ahmed 
 #### I am a developer and part time tuitor
-![I am a gamedev](https://t4.ftcdn.net/jpg/04/95/28/65/360_F_495286577_rpsT2Shmr6g81hOhGXALhxWOfx1vOQBa.jpg)](https://www.kyivsoftsolutions.com/wp-content/uploads/2020/08/python-development-banner.png)
+![I am a gamedev](https://www.kyivsoftsolutions.com/wp-content/uploads/2020/08/python-development-banner.png)
 
 currently pursuing computer science engineering from University of Visvesvaraya College of Engineering
 

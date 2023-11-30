@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Ahmed 
+### Hi there 👋, 
 #### I am a developer and part time tuitor
 ![I am a gamedev](https://www.kyivsoftsolutions.com/wp-content/uploads/2020/08/python-development-banner.png)
 
